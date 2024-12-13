@@ -1,0 +1,17 @@
+[
+    { "name": "India", "code": "in" },
+    { "name": "United States", "code": "us" },
+    { "name": "United Kingdom", "code": "gb" },
+    { "name": "Australia", "code": "au" },
+    { "name": "Canada", "code": "ca" },
+    { "name": "Germany", "code": "de" },
+    { "name": "France", "code": "fr" },
+    { "name": "Italy", "code": "it" },
+    { "name": "Japan", "code": "jp" },
+    { "name": "Russia", "code": "ru" },
+    { "name": "China", "code": "cn" },
+    { "name": "South Korea", "code": "kr" },
+    { "name": "Brazil", "code": "br" },
+    { "name": "South Africa", "code": "za" }
+  ]
+  
